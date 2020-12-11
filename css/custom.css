@@ -1,0 +1,41 @@
+body{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+ul.navbar-nav{
+    font-size: 13px;
+}
+
+ul.navbar-nav, .jumbotron h1 {
+    font-family: 'Arvo', serif;
+}
+
+.jumbotron{
+    text-align: center;
+    color: white;
+    background-image: url('../images/home-banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.jumbotron h1{
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.jumbotron p {
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 0px 50px;
+}
+
+.btn-lg{
+    font-size: 25px;
+}
+
+.container {
+    text-align: center;
+}
